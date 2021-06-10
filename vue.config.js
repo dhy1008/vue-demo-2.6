@@ -4,7 +4,7 @@ function resolve(dir) {
     return path.join(__dirname, dir)
 }
 
-const name = 'DHY' // page title
+const name = 'DHY-TEST' // page title
 module.exports = {
     publicPath: '/',
     outputDir: 'dist',
